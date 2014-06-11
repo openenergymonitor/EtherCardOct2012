@@ -1,7 +1,7 @@
 EtherCardOct2012
 ================
 
-October 2012 Snapshot of Ethercard library which works with OpenEnergyMonitor MultiNode emoncms posting NanodeRF sketch. 
+October 2012 Snapshot of Ethercard library which works with OpenEnergyMonitor MultiNode emoncms posting NanodeRF sketch. <https://github.com/openenergymonitor/nanoderf>
 
 The current version of the EtherCard library seems to have broken out Multinode sketch, NanodeRF always fails to get DNS.
 
