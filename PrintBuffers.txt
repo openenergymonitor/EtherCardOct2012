@@ -1,0 +1,8 @@
+//RW
+{
+char c;
+Serial.print("client_urlbuf = "); for (prog_char *i=client_urlbuf; *i!=0; c = pgm_read_byte_near(i), i++) Serial.print(c); Serial.println("");
+Serial.print("client_urlbuf_var = ");Serial.println(client_urlbuf_var);
+Serial.print("client_hoststr = "); for (prog_char *i=client_hoststr; *i!=0; c = pgm_read_byte_near(i), i++) Serial.print(c); Serial.println("");
+}
+
